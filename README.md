@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vicky</h1>
 <h3 align="center">A passionate full stack developer with a background in Accounting/Finance</h3>
 
-- 👨‍💻 My portfolio page is available at [https://vickyhportfolio.netlify.app](https://vickyhportfolio.netlify.app)
+- 👨‍💻 My portfolio page is available at [https://vickyyang-hu.netlify.app](https://vickyhportfolio.netlify.app)
 
 - 📫 How to reach me **vickyyang.hu@hotmail.com**
 - 📫 How to reach me **linkedin/in/vickyyang-hu**
